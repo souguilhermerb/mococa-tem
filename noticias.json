@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T07:19:00-03:00",
+ "atualizado": "2026-10-25T19:47:59-03:00",
  "noticias": [
   {
    "id": 1,
@@ -9,6 +9,91 @@
    "fonte": "Encontra Mococa",
    "url": "https://www.encontramococa.com.br/bife-a-parmegiana-de-restaurante-em-mococa-e-eleito-o-melhor-do-mundo-em-ranking/",
    "data": "2026-10-25",
+   "escopo": "Mococa"
+  },
+  {
+   "id": "e4d7fde573",
+   "titulo": "2º turno das Eleições 2026 em São Carlos e região: acompanhe aqui a apuração da sua cidade",
+   "resumo": "",
+   "categoria": "Saúde e educação",
+   "escopo": "Mococa",
+   "fonte": "g1 São Carlos e Araraquara",
+   "url": "https://g1.globo.com/sp/sao-carlos-regiao/eleicoes/2026/noticia/2026/10/25/2o-turno-das-eleicoes-2026-em-sao-carlos-e-regiao-acompanhe-aqui-a-apuracao-da-sua-cidade.ghtml",
+   "data": "2026-10-25",
+   "auto": true
+  },
+  {
+   "id": "c48391d051",
+   "titulo": "ELIAS DE SISTO, Prefeito 2016 em Mococa",
+   "resumo": "",
+   "categoria": "Prefeitura e política",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/elias-de-sisto-prefeito-2016-em-mococa/",
+   "data": "2026-10-24",
+   "auto": true
+  },
+  {
+   "id": 3,
+   "titulo": "Renovias faz balanço de 28 anos de obras em rodovias que passam por Mococa",
+   "resumo": "A concessionária divulgou um resumo das obras nas rodovias que administra, entre elas a SP-340, que liga Aguaí, Casa Branca e Mococa. Segundo a empresa, mais de 80 km dessa rodovia foram duplicados. Ela também informou ter recuperado 343 km de pavimento entre 2025 e 2026, com investimento de R$ 197 milhões.",
+   "categoria": "Cidade e serviços",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/obras-e-investimentos-transformam-rodovias-da-renovias-ao-longo-de-28-anos-2/",
+   "data": "2026-10-23",
+   "escopo": "Mococa"
+  },
+  {
+   "id": "34053c927e",
+   "titulo": "Resultado da apuração ao vivo da Eleição 2026 em Mococa (SP) no 2º turno | Veja quem foi o mais votado",
+   "resumo": "",
+   "categoria": "Prefeitura e política",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/resultado-da-apuracao-ao-vivo-da-eleicao-2026-em-mococa-sp-no-2o-turno-veja-quem-foi-o-mais-votado/",
+   "data": "2026-10-23",
+   "auto": true
+  },
+  {
+   "id": "c792987840",
+   "titulo": "Americana vai reduzir jornada de 293 profissionais de enfermagem após impasse judicial com MP",
+   "resumo": "",
+   "categoria": "Saúde e educação",
+   "escopo": "Mococa",
+   "fonte": "g1 Campinas e região",
+   "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/20/stf-valida-lei-determina-reducao-jornada-profissionais-enfermagem-americana.ghtml",
+   "data": "2026-10-20",
+   "auto": true
+  },
+  {
+   "id": 5,
+   "titulo": "Motociclista de 23 anos morre após acidente na SP-340, em Mococa",
+   "resumo": "A morte do jovem foi confirmada no domingo (18), na UTI da Santa Casa de Mococa, para onde ele foi levado em estado grave depois do acidente na SP-340, na altura do Corujão. A hipótese inicial é de que o pneu da moto estourou e o condutor foi parar sob um caminhão. A causa ainda será apurada pela perícia.",
+   "categoria": "Segurança e trânsito",
+   "fonte": "Portal Rio Pardo",
+   "url": "https://portalriopardo.com.br/jovem-de-23-anos-morre-apos-grave-acidente-de-moto-na-sp-340-em-mococa/",
+   "data": "2026-10-18",
+   "escopo": "Mococa"
+  },
+  {
+   "id": "3e80165e64",
+   "titulo": "Resultado da Mega-Sena: 2 apostas do interior de SP quase levam os R$ 170 milhões; veja números",
+   "resumo": "",
+   "categoria": "Cidade e serviços",
+   "escopo": "Região",
+   "fonte": "g1 São Carlos e Araraquara",
+   "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/18/resultado-da-mega-sena-2-apostas-do-interior-de-sp-quase-levam-os-r-170-milhoes-veja-numeros.ghtml",
+   "data": "2026-10-18",
+   "auto": true
+  },
+  {
+   "id": 4,
+   "titulo": "Mococa recebe o Troféu Internacional Chico Piscina de natação",
+   "resumo": "A cidade foi sede, de 13 a 15 de outubro, de uma das principais competições de natação de base do continente, com cerca de 350 atletas de países como Brasil, Argentina, Chile e Uruguai. Uma nadadora gaúcha do Recreio da Juventude venceu os 100 m peito infantil de 14 anos no primeiro dia e foi eleita a melhor da jornada.",
+   "categoria": "Cultura, esporte e eventos",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/leticia-poletto-e-campea-no-trofeu-internacional-chico-piscina/",
+   "data": "2026-10-17",
    "escopo": "Mococa"
   },
   {
@@ -22,34 +107,26 @@
    "escopo": "Mococa"
   },
   {
-   "id": 3,
-   "titulo": "Renovias faz balanço de 28 anos de obras em rodovias que passam por Mococa",
-   "resumo": "A concessionária divulgou um resumo das obras nas rodovias que administra, entre elas a SP-340, que liga Aguaí, Casa Branca e Mococa. Segundo a empresa, mais de 80 km dessa rodovia foram duplicados. Ela também informou ter recuperado 343 km de pavimento entre 2025 e 2026, com investimento de R$ 197 milhões.",
-   "categoria": "Cidade e serviços",
-   "fonte": "Encontra Mococa",
-   "url": "https://www.encontramococa.com.br/obras-e-investimentos-transformam-rodovias-da-renovias-ao-longo-de-28-anos-2/",
-   "data": "2026-10-23",
-   "escopo": "Mococa"
+   "id": "419593f430",
+   "titulo": "Resultado da Mega-Sena: aposta do interior de SP quase ganha os R$ 112 milhões; veja números",
+   "resumo": "",
+   "categoria": "Saúde e educação",
+   "escopo": "Região",
+   "fonte": "g1 São Carlos e Araraquara",
+   "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/11/mega-sena-aposta-do-interior-de-sp-fica-a-um-numero-de-ganhar-r-112-milhoes.ghtml",
+   "data": "2026-10-11",
+   "auto": true
   },
   {
-   "id": 4,
-   "titulo": "Mococa recebe o Troféu Internacional Chico Piscina de natação",
-   "resumo": "A cidade foi sede, de 13 a 15 de outubro, de uma das principais competições de natação de base do continente, com cerca de 350 atletas de países como Brasil, Argentina, Chile e Uruguai. Uma nadadora gaúcha do Recreio da Juventude venceu os 100 m peito infantil de 14 anos no primeiro dia e foi eleita a melhor da jornada.",
-   "categoria": "Cultura, esporte e eventos",
-   "fonte": "Encontra Mococa",
-   "url": "https://www.encontramococa.com.br/leticia-poletto-e-campea-no-trofeu-internacional-chico-piscina/",
-   "data": "2026-10-17",
-   "escopo": "Mococa"
-  },
-  {
-   "id": 5,
-   "titulo": "Motociclista de 23 anos morre após acidente na SP-340, em Mococa",
-   "resumo": "A morte do jovem foi confirmada no domingo (18), na UTI da Santa Casa de Mococa, para onde ele foi levado em estado grave depois do acidente na SP-340, na altura do Corujão. A hipótese inicial é de que o pneu da moto estourou e o condutor foi parar sob um caminhão. A causa ainda será apurada pela perícia.",
-   "categoria": "Segurança e trânsito",
-   "fonte": "Portal Rio Pardo",
-   "url": "https://portalriopardo.com.br/jovem-de-23-anos-morre-apos-grave-acidente-de-moto-na-sp-340-em-mococa/",
-   "data": "2026-10-18",
-   "escopo": "Mococa"
+   "id": "3e5cd78d58",
+   "titulo": "Chuva forte alaga ruas, casas e deixa famílias desalojadas no interior de SP; veja imagens",
+   "resumo": "",
+   "categoria": "Saúde e educação",
+   "escopo": "Região",
+   "fonte": "g1 São Carlos e Araraquara",
+   "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/11/temporal-alaga-casas-e-deixa-familias-desalojadas-no-interior-de-sp.ghtml",
+   "data": "2026-10-11",
+   "auto": true
   }
  ]
 }
