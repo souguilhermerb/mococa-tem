@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Mococa em Dia – notícias de Mococa (SP)</title>
+<meta name="description" content="Painel com as notícias mais recentes de Mococa, interior de São Paulo: cidade, saúde, trânsito, economia, cultura e esporte, com fonte e link para a matéria original.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:title" content="Mococa em Dia – notícias de Mococa (SP)">
+<meta property="og:description" content="As notícias recentes de Mococa em um só lugar, sempre com fonte, data e link para o original.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700&family=Newsreader:opsz,wght@6..72,400;6..72,500&display=swap" rel="stylesheet">
+<style>
+:root{
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+  color-scheme:light;
+  --bg:#f3f6f2; --surface:#ffffff; --ink:#17231f; --muted:#51615a; --line:#d3dcd5;
+  --accent:#1f6b4a; --accent-ink:#ffffff; --hl:#e6f0e8;
+  --f-head:"Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;
+  --f-body:"Newsreader",Georgia,"Times New Roman",serif;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --bg:#0f1915; --surface:#17241f; --ink:#e8f0ea; --muted:#9db0a6; --line:#2a3b34;
+    --accent:#6fcf9d; --accent-ink:#0c1a13; --hl:#1b2d25;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#0f1915; --surface:#17241f; --ink:#e8f0ea; --muted:#9db0a6; --line:#2a3b34;
+  --accent:#6fcf9d; --accent-ink:#0c1a13; --hl:#1b2d25;
+}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 1.0625rem/1.55 var(--f-body)}
+.wrap{max-width:1040px;margin:0 auto;padding:0 1.1rem}
+a{color:inherit}
+a:focus-visible,button:focus-visible,input:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+
+header.top{border-bottom:1px solid var(--line);padding:1.4rem 0 1.2rem}
+.top .wrap{display:flex;gap:1rem;justify-content:space-between;align-items:flex-start}
+h1{font:700 clamp(2rem,7vw,3.4rem)/1 var(--f-head);margin:0;letter-spacing:-.02em}
+.sub{margin:.5rem 0 0;color:var(--muted);max-width:34rem}
+.upd{margin:.7rem 0 0;font-size:.95rem;color:var(--muted)}
+.theme{flex:none;border:1px solid var(--line);background:var(--surface);color:var(--ink);font:500 .9rem var(--f-head);padding:.5rem .8rem;border-radius:999px;cursor:pointer}
+
+h2.sec{font:700 1.25rem/1.2 var(--f-head);margin:2rem 0 .8rem}
+.hl{display:grid;gap:1rem}
+@media(min-width:760px){.hl{grid-template-columns:1.6fr 1fr}.hl .big{grid-row:span 2}}
+.card{background:var(--surface);border:1px solid var(--line);border-left:5px solid var(--c,var(--accent));border-radius:6px;padding:1rem 1.1rem;display:flex;flex-direction:column;gap:.55rem}
+.card h3{font:700 1.18rem/1.25 var(--f-head);margin:0}
+.big h3{font-size:clamp(1.5rem,4.5vw,2.1rem);line-height:1.12}
+.card p{margin:0}
+.tag{align-self:flex-start;font:500 .85rem var(--f-head);padding:.15rem .6rem;border-radius:999px;background:var(--hl);border:1px solid var(--line)}
+.meta{display:flex;flex-wrap:wrap;gap:.2rem 1rem;margin-top:auto;padding-top:.4rem;font-size:.92rem;color:var(--muted)}
+.read{font:700 .95rem var(--f-head);color:var(--accent);text-underline-offset:3px}
+
+.tools{display:grid;gap:.8rem;margin-bottom:1rem}
+.search{width:100%;font:400 1rem var(--f-body);padding:.7rem .9rem;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--ink)}
+.chips{display:flex;flex-wrap:wrap;gap:.5rem}
+.chip{font:500 .9rem var(--f-head);padding:.4rem .8rem;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.grid{display:grid;gap:1rem;grid-template-columns:repeat(auto-fill,minmax(min(100%,290px),1fr))}
+.empty{padding:1.5rem;border:1px dashed var(--line);border-radius:6px;color:var(--muted)}
+footer{margin:2.5rem 0 2rem;padding-top:1rem;border-top:1px solid var(--line);color:var(--muted);font-size:.95rem}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div>
+      <h1>Mococa em Dia</h1>
+      <p class="sub">As notícias recentes de Mococa (SP), sempre com fonte, data e link para a matéria completa.</p>
+      <p class="upd">Atualizado em <time id="upd"></time></p>
+    </div>
+    <button class="theme" id="theme" type="button" aria-label="Alternar tema claro e escuro">Tema</button>
+  </div>
+</header>
+
+<main class="wrap">
+  <section aria-labelledby="t-dest">
+    <h2 class="sec" id="t-dest">Destaques</h2>
+    <div class="hl" id="destaques"></div>
+  </section>
+
+  <section aria-labelledby="t-todas">
+    <h2 class="sec" id="t-todas">Todas as notícias</h2>
+    <div class="tools">
+      <input class="search" id="q" type="search" placeholder="Buscar por palavra, fonte ou assunto" aria-label="Buscar notícias">
+      <div class="chips" id="chips" role="group" aria-label="Filtrar por categoria"></div>
+    </div>
+    <p class="empty" id="vazio" hidden>Nenhuma notícia encontrada. Limpe a busca ou escolha outra categoria.</p>
+    <div class="grid" id="grid"></div>
+  </section>
+</main>
+
+<footer class="wrap">
+  <p>Os resumos são escritos com palavras próprias e podem não trazer todos os detalhes. Notícias sem resumo foram coletadas automaticamente dos feeds das fontes. Leia a matéria original pelo link de cada notícia.</p>
+</footer>
+
+<script>
+/* ===== DADOS DE RESERVA: usados só se noticias.json não carregar ===== */
+let ATUALIZADO = "2026-10-25T07:19:00-03:00";
+let NOTICIAS = [
+  {
+    id: 1,
+    titulo: "Bife à parmegiana de restaurante de Mococa é eleito o melhor do mundo em ranking",
+    resumo: "A parmegiana de filé-mignon do restaurante Mirabile ficou em primeiro lugar em um ranking global do TasteAtlas. O dono atribui o resultado ao cuidado com os ingredientes e ao molho de tomate. Depois do título, a casa registrou mais procura e estuda como atender a demanda sem perder o padrão.",
+    categoria: "Economia e emprego",
+    fonte: "Encontra Mococa",
+    url: "https://www.encontramococa.com.br/bife-a-parmegiana-de-restaurante-em-mococa-e-eleito-o-melhor-do-mundo-em-ranking/",
+    data: "2026-10-25"
+  },
+  {
+    id: 2,
+    titulo: "Conselho de Saúde discute internações, UPA em prédio cedido e transição para o CONDERG",
+    resumo: "Atas do Conselho Municipal de Saúde, publicadas no Diário Oficial de 30 de setembro, registram debates sobre a dificuldade de internação pelo SUS e sobre a UPA, que funciona em imóvel cedido pela Santa Casa. A gestão informou que 36 enfermeiras já foram contratadas e que a previsão é admitir 85 técnicos de enfermagem. O jornal ressalta que as atas registram discussões do conselho e não são uma auditoria.",
+    categoria: "Saúde e educação",
+    fonte: "Jornal Democrata",
+    url: "https://www.transparencia.blog.br/noticia/3085/mococa/saude/conselho-de-saude-expoe-dificuldades-na-internacao-transicao-do-conderg-e-estrutura-da-upa.html",
+    data: "2026-10-12"
+  },
+  {
+    id: 3,
+    titulo: "Renovias faz balanço de 28 anos de obras em rodovias que passam por Mococa",
+    resumo: "A concessionária divulgou um resumo das obras nas rodovias que administra, entre elas a SP-340, que liga Aguaí, Casa Branca e Mococa. Segundo a empresa, mais de 80 km dessa rodovia foram duplicados. Ela também informou ter recuperado 343 km de pavimento entre 2025 e 2026, com investimento de R$ 197 milhões.",
+    categoria: "Cidade e serviços",
+    fonte: "Encontra Mococa",
+    url: "https://www.encontramococa.com.br/obras-e-investimentos-transformam-rodovias-da-renovias-ao-longo-de-28-anos-2/",
+    data: "2026-10-23"
+  },
+  {
+    id: 4,
+    titulo: "Mococa recebe o Troféu Internacional Chico Piscina de natação",
+    resumo: "A cidade foi sede, de 13 a 15 de outubro, de uma das principais competições de natação de base do continente, com cerca de 350 atletas de países como Brasil, Argentina, Chile e Uruguai. Uma nadadora gaúcha do Recreio da Juventude venceu os 100 m peito infantil de 14 anos no primeiro dia e foi eleita a melhor da jornada.",
+    categoria: "Cultura, esporte e eventos",
+    fonte: "Encontra Mococa",
+    url: "https://www.encontramococa.com.br/leticia-poletto-e-campea-no-trofeu-internacional-chico-piscina/",
+    data: "2026-10-17"
+  },
+  {
+    id: 5,
+    titulo: "Motociclista de 23 anos morre após acidente na SP-340, em Mococa",
+    resumo: "A morte do jovem foi confirmada no domingo (18), na UTI da Santa Casa de Mococa, para onde ele foi levado em estado grave depois do acidente na SP-340, na altura do Corujão. A hipótese inicial é de que o pneu da moto estourou e o condutor foi parar sob um caminhão. A causa ainda será apurada pela perícia.",
+    categoria: "Segurança e trânsito",
+    fonte: "Portal Rio Pardo",
+    url: "https://portalriopardo.com.br/jovem-de-23-anos-morre-apos-grave-acidente-de-moto-na-sp-340-em-mococa/",
+    data: "2026-10-18"
+  }
+];
+/* ===== FIM DOS DADOS ===== */
+
+const CORES = {
+  "Cidade e serviços":"#2b6cb0","Prefeitura e política":"#7b4fa3","Segurança e trânsito":"#c0392b",
+  "Economia e emprego":"#b7791f","Saúde e educação":"#0f8b8d","Cultura, esporte e eventos":"#2f855a",
+  "Utilidade pública":"#5a6b78"
+};
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const norm = s => s.normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase();
+const fmtData = d => new Date(d + "T12:00:00").toLocaleDateString("pt-BR",{day:"numeric",month:"long",year:"numeric"});
+
+function card(n, big){
+  const cor = CORES[n.categoria] || "var(--accent)";
+  return `<article class="card${big ? " big" : ""}" style="--c:${cor}">
+    <span class="tag">${esc(n.categoria)}${n.escopo === "Região" ? " (região)" : ""}</span>
+    <h3>${esc(n.titulo)}</h3>
+    ${n.resumo ? `<p>${esc(n.resumo)}</p>` : ""}
+    <div class="meta"><span>${esc(n.fonte)}</span><time datetime="${n.data}">${fmtData(n.data)}</time></div>
+    <a class="read" href="${esc(n.url)}" target="_blank" rel="noopener noreferrer">Ler a matéria completa em ${esc(n.fonte)}</a>
+  </article>`;
+}
+
+const estado = { cat: "Todas", q: "" };
+
+function renderChips(){
+  const cats = ["Todas", ...new Set(NOTICIAS.map(n => n.categoria))];
+  $("chips").innerHTML = cats.map(c =>
+    `<button type="button" class="chip" data-c="${esc(c)}" aria-pressed="${c === estado.cat}">${esc(c)}</button>`).join("");
+}
+
+function renderGrid(){
+  const q = norm(estado.q.trim());
+  const lista = NOTICIAS.filter(n =>
+    (estado.cat === "Todas" || n.categoria === estado.cat) &&
+    (!q || norm([n.titulo, n.resumo, n.fonte, n.categoria].join(" ")).includes(q)));
+  $("grid").innerHTML = lista.map(n => card(n, false)).join("");
+  $("vazio").hidden = lista.length > 0;
+}
+
+function pintarTopo(){
+  $("destaques").innerHTML = NOTICIAS.slice(0,3).map((n,i) => card(n, i === 0)).join("");
+  $("upd").dateTime = ATUALIZADO;
+  $("upd").textContent = new Date(ATUALIZADO).toLocaleString("pt-BR",{dateStyle:"long",timeStyle:"short"});
+}
+
+$("chips").addEventListener("click", e => {
+  const b = e.target.closest("button[data-c]"); if(!b) return;
+  estado.cat = b.dataset.c; renderChips(); renderGrid();
+});
+$("q").addEventListener("input", e => { estado.q = e.target.value; renderGrid(); });
+$("theme").addEventListener("click", () => {
+  const r = document.documentElement;
+  const escuro = r.dataset.theme ? r.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  r.dataset.theme = escuro ? "light" : "dark";
+});
+
+function pintarTudo(){
+  if (estado.cat !== "Todas" && !NOTICIAS.some(n => n.categoria === estado.cat)) estado.cat = "Todas";
+  pintarTopo(); renderChips(); renderGrid();
+}
+async function carregar(){
+  try {
+    const r = await fetch("noticias.json?t=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error(r.status);
+    const d = await r.json();
+    if (Array.isArray(d.noticias) && d.noticias.length) { NOTICIAS = d.noticias; ATUALIZADO = d.atualizado || ATUALIZADO; }
+  } catch (e) { /* mantém os dados de reserva */ }
+  pintarTudo();
+}
+carregar();
+setInterval(carregar, 60 * 60 * 1000);                       // a cada 1 hora
+document.addEventListener("visibilitychange", () => { if (!document.hidden) carregar(); });
+</script>
+</body>
+</html>

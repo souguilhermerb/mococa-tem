@@ -1,0 +1,55 @@
+{
+ "atualizado": "2026-10-25T07:19:00-03:00",
+ "noticias": [
+  {
+   "id": 1,
+   "titulo": "Bife à parmegiana de restaurante de Mococa é eleito o melhor do mundo em ranking",
+   "resumo": "A parmegiana de filé-mignon do restaurante Mirabile ficou em primeiro lugar em um ranking global do TasteAtlas. O dono atribui o resultado ao cuidado com os ingredientes e ao molho de tomate. Depois do título, a casa registrou mais procura e estuda como atender a demanda sem perder o padrão.",
+   "categoria": "Economia e emprego",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/bife-a-parmegiana-de-restaurante-em-mococa-e-eleito-o-melhor-do-mundo-em-ranking/",
+   "data": "2026-10-25",
+   "escopo": "Mococa"
+  },
+  {
+   "id": 2,
+   "titulo": "Conselho de Saúde discute internações, UPA em prédio cedido e transição para o CONDERG",
+   "resumo": "Atas do Conselho Municipal de Saúde, publicadas no Diário Oficial de 30 de setembro, registram debates sobre a dificuldade de internação pelo SUS e sobre a UPA, que funciona em imóvel cedido pela Santa Casa. A gestão informou que 36 enfermeiras já foram contratadas e que a previsão é admitir 85 técnicos de enfermagem. O jornal ressalta que as atas registram discussões do conselho e não são uma auditoria.",
+   "categoria": "Saúde e educação",
+   "fonte": "Jornal Democrata",
+   "url": "https://www.transparencia.blog.br/noticia/3085/mococa/saude/conselho-de-saude-expoe-dificuldades-na-internacao-transicao-do-conderg-e-estrutura-da-upa.html",
+   "data": "2026-10-12",
+   "escopo": "Mococa"
+  },
+  {
+   "id": 3,
+   "titulo": "Renovias faz balanço de 28 anos de obras em rodovias que passam por Mococa",
+   "resumo": "A concessionária divulgou um resumo das obras nas rodovias que administra, entre elas a SP-340, que liga Aguaí, Casa Branca e Mococa. Segundo a empresa, mais de 80 km dessa rodovia foram duplicados. Ela também informou ter recuperado 343 km de pavimento entre 2025 e 2026, com investimento de R$ 197 milhões.",
+   "categoria": "Cidade e serviços",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/obras-e-investimentos-transformam-rodovias-da-renovias-ao-longo-de-28-anos-2/",
+   "data": "2026-10-23",
+   "escopo": "Mococa"
+  },
+  {
+   "id": 4,
+   "titulo": "Mococa recebe o Troféu Internacional Chico Piscina de natação",
+   "resumo": "A cidade foi sede, de 13 a 15 de outubro, de uma das principais competições de natação de base do continente, com cerca de 350 atletas de países como Brasil, Argentina, Chile e Uruguai. Uma nadadora gaúcha do Recreio da Juventude venceu os 100 m peito infantil de 14 anos no primeiro dia e foi eleita a melhor da jornada.",
+   "categoria": "Cultura, esporte e eventos",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/leticia-poletto-e-campea-no-trofeu-internacional-chico-piscina/",
+   "data": "2026-10-17",
+   "escopo": "Mococa"
+  },
+  {
+   "id": 5,
+   "titulo": "Motociclista de 23 anos morre após acidente na SP-340, em Mococa",
+   "resumo": "A morte do jovem foi confirmada no domingo (18), na UTI da Santa Casa de Mococa, para onde ele foi levado em estado grave depois do acidente na SP-340, na altura do Corujão. A hipótese inicial é de que o pneu da moto estourou e o condutor foi parar sob um caminhão. A causa ainda será apurada pela perícia.",
+   "categoria": "Segurança e trânsito",
+   "fonte": "Portal Rio Pardo",
+   "url": "https://portalriopardo.com.br/jovem-de-23-anos-morre-apos-grave-acidente-de-moto-na-sp-340-em-mococa/",
+   "data": "2026-10-18",
+   "escopo": "Mococa"
+  }
+ ]
+}
