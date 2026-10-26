@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-26T08:43:02-03:00",
+ "atualizado": "2026-10-26T11:46:27-03:00",
  "noticias": [
   {
    "id": "927da1e222",
@@ -31,6 +31,17 @@
    "escopo": "Mococa",
    "fonte": "Encontra Mococa",
    "url": "https://www.encontramococa.com.br/mococa-sp-veja-resultado-da-apuracao-do-2o-turno-para-presidente-na-cidade/",
+   "data": "2026-10-26",
+   "auto": true
+  },
+  {
+   "id": "e26477d5ac",
+   "titulo": "32 mil eleitores que faltaram no 1º turno foram votar no 2º turno em São Carlos e região; veja dados",
+   "resumo": "",
+   "categoria": "Cidade e serviços",
+   "escopo": "Mococa",
+   "fonte": "g1 São Carlos e Araraquara",
+   "url": "https://g1.globo.com/sp/sao-carlos-regiao/eleicoes/2026/noticia/2026/10/26/32-mil-eleitores-que-faltaram-no-1o-turno-foram-votar-no-2o-turno-em-sao-carlos-e-regiao-veja-dados.ghtml",
    "data": "2026-10-26",
    "auto": true
   },
