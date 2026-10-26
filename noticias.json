@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T22:45:58-03:00",
+ "atualizado": "2026-10-25T23:35:29-03:00",
  "noticias": [
   {
    "id": 1,
@@ -19,6 +19,17 @@
    "escopo": "Mococa",
    "fonte": "g1 São Carlos e Araraquara",
    "url": "https://g1.globo.com/sp/sao-carlos-regiao/eleicoes/2026/noticia/2026/10/25/2o-turno-das-eleicoes-2026-em-sao-carlos-e-regiao-acompanhe-aqui-a-apuracao-da-sua-cidade.ghtml",
+   "data": "2026-10-25",
+   "auto": true
+  },
+  {
+   "id": "c818ae9228",
+   "titulo": "Eleições 2026: votos brancos e nulos caem 31% no 2º turno em São Carlos e região",
+   "resumo": "",
+   "categoria": "Saúde e educação",
+   "escopo": "Mococa",
+   "fonte": "g1 São Carlos e Araraquara",
+   "url": "https://g1.globo.com/sp/sao-carlos-regiao/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-votos-brancos-e-nulos-caem-31percent-no-2o-turno-em-sao-carlos-e-regiao.ghtml",
    "data": "2026-10-25",
    "auto": true
   },
