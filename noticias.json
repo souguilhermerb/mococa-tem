@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T23:35:29-03:00",
+ "atualizado": "2026-10-26T00:35:24-03:00",
  "noticias": [
   {
    "id": 1,
@@ -30,6 +30,17 @@
    "escopo": "Mococa",
    "fonte": "g1 São Carlos e Araraquara",
    "url": "https://g1.globo.com/sp/sao-carlos-regiao/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-votos-brancos-e-nulos-caem-31percent-no-2o-turno-em-sao-carlos-e-regiao.ghtml",
+   "data": "2026-10-25",
+   "auto": true
+  },
+  {
+   "id": "50f433ccf1",
+   "titulo": "Eleições 2026: No 2º turno, Lula ganhou em Araraquara e 8 cidades; Flávio Bolsonaro venceu em 33",
+   "resumo": "",
+   "categoria": "Prefeitura e política",
+   "escopo": "Mococa",
+   "fonte": "g1 São Carlos e Araraquara",
+   "url": "https://g1.globo.com/sp/sao-carlos-regiao/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-no-2o-turno-lula-ganhou-em-araraquara-e-8-cidades-flavio-bolsonaro-venceu-em-33.ghtml",
    "data": "2026-10-25",
    "auto": true
   },
