@@ -1,6 +1,39 @@
 {
- "atualizado": "2026-10-26T00:35:24-03:00",
+ "atualizado": "2026-10-26T02:35:38-03:00",
  "noticias": [
+  {
+   "id": "927da1e222",
+   "titulo": "ELIAS DE SISTO, Vereador 2012 em Mococa",
+   "resumo": "",
+   "categoria": "Prefeitura e política",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/elias-de-sisto-vereador-2012-em-mococa/",
+   "data": "2026-10-26",
+   "auto": true
+  },
+  {
+   "id": "163995f863",
+   "titulo": "Mococa (SP): siga resultado da apuração do 2º turno para presidente na cidade",
+   "resumo": "",
+   "categoria": "Cidade e serviços",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/mococa-sp-siga-resultado-da-apuracao-do-2o-turno-para-presidente-na-cidade/",
+   "data": "2026-10-26",
+   "auto": true
+  },
+  {
+   "id": "50a11987b7",
+   "titulo": "Mococa (SP): veja resultado da apuração do 2º turno para presidente na cidade",
+   "resumo": "",
+   "categoria": "Cidade e serviços",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/mococa-sp-veja-resultado-da-apuracao-do-2o-turno-para-presidente-na-cidade/",
+   "data": "2026-10-26",
+   "auto": true
+  },
   {
    "id": 1,
    "titulo": "Bife à parmegiana de restaurante de Mococa é eleito o melhor do mundo em ranking",
