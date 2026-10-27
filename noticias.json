@@ -1,6 +1,28 @@
 {
- "atualizado": "2026-10-27T01:34:28-03:00",
+ "atualizado": "2026-10-27T02:34:21-03:00",
  "noticias": [
+  {
+   "id": "ebb23a873d",
+   "titulo": "Mococa (SP): resultado do local de votação por zonas eleitorais no 2º turno",
+   "resumo": "",
+   "categoria": "Cidade e serviços",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/mococa-sp-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno/",
+   "data": "2026-10-27",
+   "auto": true
+  },
+  {
+   "id": "144a51d1d9",
+   "titulo": "Resultado das eleições 2026 em Mococa (SP): como foi a votação no 2º turno",
+   "resumo": "",
+   "categoria": "Prefeitura e política",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/resultado-das-eleicoes-2026-em-mococa-sp-como-foi-a-votacao-no-2o-turno/",
+   "data": "2026-10-27",
+   "auto": true
+  },
   {
    "id": "927da1e222",
    "titulo": "ELIAS DE SISTO, Vereador 2012 em Mococa",
