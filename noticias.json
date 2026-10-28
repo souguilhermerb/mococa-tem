@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-28T15:47:05-03:00",
+ "atualizado": "2026-10-28T16:47:33-03:00",
  "noticias": [
   {
    "id": "666cba0894",
@@ -31,6 +31,17 @@
    "escopo": "Região",
    "fonte": "Encontra Mococa",
    "url": "https://www.encontramococa.com.br/flavio-bolsonaro-vence-em-sao-jose-do-rio-pardo-sp/",
+   "data": "2026-10-28",
+   "auto": true
+  },
+  {
+   "id": "035d7e4008",
+   "titulo": "Coren-SP inaugura posto de atendimento no Poupatempo de São José do Rio Pardo",
+   "resumo": "",
+   "categoria": "Saúde e educação",
+   "escopo": "Região",
+   "fonte": "Portal Rio Pardo",
+   "url": "https://portalriopardo.com.br/coren-sp-inaugura-posto-de-atendimento-no-poupatempo-de-sao-jose-do-rio-pardo/",
    "data": "2026-10-28",
    "auto": true
   },
