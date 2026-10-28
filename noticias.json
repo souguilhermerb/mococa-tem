@@ -1,6 +1,39 @@
 {
- "atualizado": "2026-10-28T00:43:56-03:00",
+ "atualizado": "2026-10-28T01:44:05-03:00",
  "noticias": [
+  {
+   "id": "666cba0894",
+   "titulo": "Colégio Maria Imaculada, 73ª zona eleitoral: resultado da votação em Mococa (SP) no 2º turno",
+   "resumo": "",
+   "categoria": "Cidade e serviços",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/colegio-maria-imaculada-73a-zona-eleitoral-resultado-da-votacao-em-mococa-sp-no-2o-turno/",
+   "data": "2026-10-28",
+   "auto": true
+  },
+  {
+   "id": "9275de236d",
+   "titulo": "73ª zona eleitoral de Mococa (SP): votos por local de votação no 2º turno",
+   "resumo": "",
+   "categoria": "Cidade e serviços",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/73a-zona-eleitoral-de-mococa-sp-votos-por-local-de-votacao-no-2o-turno/",
+   "data": "2026-10-28",
+   "auto": true
+  },
+  {
+   "id": "505ad0a658",
+   "titulo": "Flávio Bolsonaro vence em São José do Rio Pardo (SP)",
+   "resumo": "",
+   "categoria": "Cidade e serviços",
+   "escopo": "Região",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/flavio-bolsonaro-vence-em-sao-jose-do-rio-pardo-sp/",
+   "data": "2026-10-28",
+   "auto": true
+  },
   {
    "id": "ebb23a873d",
    "titulo": "Mococa (SP): resultado do local de votação por zonas eleitorais no 2º turno",
