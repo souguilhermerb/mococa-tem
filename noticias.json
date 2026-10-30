@@ -1,6 +1,39 @@
 {
- "atualizado": "2026-10-30T09:52:02-03:00",
+ "atualizado": "2026-10-30T10:58:41-03:00",
  "noticias": [
+  {
+   "id": "48e2b16432",
+   "titulo": "Eleição em Mococa: Flávio Bolsonaro vence com 64,40%",
+   "resumo": "",
+   "categoria": "Prefeitura e política",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/eleicao-em-mococa-flavio-bolsonaro-vence-com-6440/",
+   "data": "2026-10-30",
+   "auto": true
+  },
+  {
+   "id": "93bba35463",
+   "titulo": "Natação Unisanta soma oito medalhas no Troféu Chico Piscina",
+   "resumo": "",
+   "categoria": "Cultura, esporte e eventos",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/natacao-unisanta-soma-oito-medalhas-no-trofeu-chico-piscina/",
+   "data": "2026-10-30",
+   "auto": true
+  },
+  {
+   "id": "dfb5e88a98",
+   "titulo": "Natação Unisanta no Troféu Kim Mollo: 24 medalhas",
+   "resumo": "",
+   "categoria": "Cultura, esporte e eventos",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/natacao-unisanta-no-trofeu-kim-mollo-24-medalhas/",
+   "data": "2026-10-30",
+   "auto": true
+  },
   {
    "id": "666cba0894",
    "titulo": "Colégio Maria Imaculada, 73ª zona eleitoral: resultado da votação em Mococa (SP) no 2º turno",
