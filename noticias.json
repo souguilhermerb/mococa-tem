@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T14:41:38-03:00",
+ "atualizado": "2026-10-30T15:45:20-03:00",
  "noticias": [
   {
    "id": "48e2b16432",
@@ -31,6 +31,17 @@
    "escopo": "Mococa",
    "fonte": "Encontra Mococa",
    "url": "https://www.encontramococa.com.br/natacao-unisanta-no-trofeu-kim-mollo-24-medalhas/",
+   "data": "2026-10-30",
+   "auto": true
+  },
+  {
+   "id": "d8735e15f6",
+   "titulo": "Domingo Aéreo: AFA abre 4º lote com 20 mil ingressos gratuitos no interior de SP",
+   "resumo": "",
+   "categoria": "Saúde e educação",
+   "escopo": "Região",
+   "fonte": "g1 São Carlos e Araraquara",
+   "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/30/domingo-aereo-afa-abre-4o-lote-com-20-mil-ingressos-gratuitos-no-interior-de-sp.ghtml",
    "data": "2026-10-30",
    "auto": true
   },
