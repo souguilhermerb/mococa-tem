@@ -1,6 +1,28 @@
 {
- "atualizado": "2026-10-31T00:43:46-03:00",
+ "atualizado": "2026-10-31T01:42:37-03:00",
  "noticias": [
+  {
+   "id": "fe101198c4",
+   "titulo": "Resultado da votação em Mococa: EE Barão no 2º turno",
+   "resumo": "",
+   "categoria": "Cidade e serviços",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/resultado-da-votacao-em-mococa-ee-barao-no-2o-turno/",
+   "data": "2026-10-31",
+   "auto": true
+  },
+  {
+   "id": "33cb882730",
+   "titulo": "Boiada dente de leite chega a 21,5 arrobas em Mococa",
+   "resumo": "",
+   "categoria": "Economia e emprego",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/boiada-dente-de-leite-chega-a-215-arrobas-em-mococa/",
+   "data": "2026-10-31",
+   "auto": true
+  },
   {
    "id": "48e2b16432",
    "titulo": "Eleição em Mococa: Flávio Bolsonaro vence com 64,40%",
