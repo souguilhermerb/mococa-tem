@@ -1,6 +1,17 @@
 {
- "atualizado": "2026-11-01T00:50:24-03:00",
+ "atualizado": "2026-11-01T01:50:32-03:00",
  "noticias": [
+  {
+   "id": "6146cebc20",
+   "titulo": "Resultado da votação em Mococa no 2º turno de 2026",
+   "resumo": "",
+   "categoria": "Cidade e serviços",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/resultado-da-votacao-em-mococa-no-2o-turno-de-2026/",
+   "data": "2026-11-01",
+   "auto": true
+  },
   {
    "id": "fe101198c4",
    "titulo": "Resultado da votação em Mococa: EE Barão no 2º turno",
