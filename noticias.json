@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-02T10:02:14-03:00",
+ "atualizado": "2026-11-02T11:17:10-03:00",
  "noticias": [
   {
    "id": "4e7182eea3",
@@ -9,6 +9,17 @@
    "escopo": "Mococa",
    "fonte": "Encontra Mococa",
    "url": "https://www.encontramococa.com.br/elias-de-mococa-ficha-para-deputado-federal-em-2026/",
+   "data": "2026-11-02",
+   "auto": true
+  },
+  {
+   "id": "0f518580d9",
+   "titulo": "Rota Mogiana assume 520 km de rodovias em SP com previsão de R$ 9,4 bilhões em investimentos",
+   "resumo": "",
+   "categoria": "Cidade e serviços",
+   "escopo": "Região",
+   "fonte": "Portal Rio Pardo",
+   "url": "https://portalriopardo.com.br/rota-mogiana-assume-520-km-de-rodovias-em-sp-com-previsao-de-r-94-bilhoes-em-investimentos/",
    "data": "2026-11-02",
    "auto": true
   },
