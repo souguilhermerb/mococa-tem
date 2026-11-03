@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-03T15:50:42-03:00",
+ "atualizado": "2026-11-03T16:52:07-03:00",
  "noticias": [
   {
    "id": "050968c633",
@@ -20,6 +20,17 @@
    "escopo": "Mococa",
    "fonte": "Encontra Mococa",
    "url": "https://www.encontramococa.com.br/show-gratuito-de-rio-negro-e-solimoes-sera-em-mococa/",
+   "data": "2026-11-03",
+   "auto": true
+  },
+  {
+   "id": "dad5b4d0aa",
+   "titulo": "Profissionais de enfermagem do interior de SP ganham posto do Coren-SP no Poupatempo de São José do Rio Pardo",
+   "resumo": "",
+   "categoria": "Saúde e educação",
+   "escopo": "Região",
+   "fonte": "Portal Rio Pardo",
+   "url": "https://portalriopardo.com.br/profissionais-de-enfermagem-do-interior-de-sp-ganham-posto-do-coren-sp-no-poupatempo-de-sao-jose-do-rio-pardo/",
    "data": "2026-11-03",
    "auto": true
   },
