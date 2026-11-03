@@ -1,6 +1,28 @@
 {
- "atualizado": "2026-11-03T00:51:20-03:00",
+ "atualizado": "2026-11-03T01:53:46-03:00",
  "noticias": [
+  {
+   "id": "050968c633",
+   "titulo": "Natação Unisanta conquista oito medalhas no Chico Piscina",
+   "resumo": "",
+   "categoria": "Cultura, esporte e eventos",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/natacao-unisanta-conquista-oito-medalhas-no-chico-piscina/",
+   "data": "2026-11-03",
+   "auto": true
+  },
+  {
+   "id": "34e909d772",
+   "titulo": "Show gratuito de Rio Negro e Solimões será em Mococa",
+   "resumo": "",
+   "categoria": "Cultura, esporte e eventos",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/show-gratuito-de-rio-negro-e-solimoes-sera-em-mococa/",
+   "data": "2026-11-03",
+   "auto": true
+  },
   {
    "id": "4e7182eea3",
    "titulo": "Elias de Mococa: ficha para deputado federal em 2026",
