@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-04T18:49:26-03:00",
+ "atualizado": "2026-11-04T19:46:55-03:00",
  "noticias": [
   {
    "id": "a0d5b8125e",
@@ -9,6 +9,17 @@
    "escopo": "Mococa",
    "fonte": "Encontra Mococa",
    "url": "https://www.encontramococa.com.br/natacao-unisanta-soma-24-medalhas-no-trofeu-kim-mollo/",
+   "data": "2026-11-04",
+   "auto": true
+  },
+  {
+   "id": "77812297a7",
+   "titulo": "Capotamento na Rodovia MGC-491, em Varginha, deixa uma vítima fatal e uma ferida",
+   "resumo": "",
+   "categoria": "Cidade e serviços",
+   "escopo": "Região",
+   "fonte": "Portal Rio Pardo",
+   "url": "https://portalriopardo.com.br/capotamento-na-rodovia-mgc-491-em-varginha-deixa-uma-vitima-fatal-e-uma-ferida/",
    "data": "2026-11-04",
    "auto": true
   },
