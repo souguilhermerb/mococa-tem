@@ -1,6 +1,28 @@
 {
- "atualizado": "2026-11-05T00:54:52-03:00",
+ "atualizado": "2026-11-05T01:58:00-03:00",
  "noticias": [
+  {
+   "id": "a97b33f281",
+   "titulo": "Cido Espanha prefeito 2012: candidatura em Mococa",
+   "resumo": "",
+   "categoria": "Prefeitura e política",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/cido-espanha-prefeito-2012-candidatura-em-mococa/",
+   "data": "2026-11-05",
+   "auto": true
+  },
+  {
+   "id": "d5960eb333",
+   "titulo": "Posto do Coren-SP será inaugurado em São José do Rio Pardo",
+   "resumo": "",
+   "categoria": "Saúde e educação",
+   "escopo": "Região",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/posto-do-coren-sp-sera-inaugurado-em-sao-jose-do-rio-pardo/",
+   "data": "2026-11-05",
+   "auto": true
+  },
   {
    "id": "a0d5b8125e",
    "titulo": "Natação Unisanta soma 24 medalhas no Troféu Kim Mollo",
