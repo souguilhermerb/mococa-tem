@@ -1,6 +1,28 @@
 {
- "atualizado": "2026-11-06T00:52:58-03:00",
+ "atualizado": "2026-11-06T01:57:17-03:00",
  "noticias": [
+  {
+   "id": "bd738d1430",
+   "titulo": "Déficit em Mococa: servidores relatam atrasos nos salários",
+   "resumo": "",
+   "categoria": "Cidade e serviços",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/deficit-em-mococa-servidores-relatam-atrasos-nos-salarios/",
+   "data": "2026-11-06",
+   "auto": true
+  },
+  {
+   "id": "7a4d2dc6c2",
+   "titulo": "Mococa tem déficit há 3 anos, buracos e salários atrasados",
+   "resumo": "",
+   "categoria": "Cidade e serviços",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/mococa-tem-deficit-ha-3-anos-buracos-e-salarios-atrasados/",
+   "data": "2026-11-06",
+   "auto": true
+  },
   {
    "id": "a97b33f281",
    "titulo": "Cido Espanha prefeito 2012: candidatura em Mococa",
