@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-06T16:52:01-03:00",
+ "atualizado": "2026-11-06T17:46:29-03:00",
  "noticias": [
   {
    "id": "bd738d1430",
@@ -20,6 +20,17 @@
    "escopo": "Mococa",
    "fonte": "Encontra Mococa",
    "url": "https://www.encontramococa.com.br/mococa-tem-deficit-ha-3-anos-buracos-e-salarios-atrasados/",
+   "data": "2026-11-06",
+   "auto": true
+  },
+  {
+   "id": "6f68725e9b",
+   "titulo": "Caso “Fran do Miojo”: Justiça mantém prisão de casal suspeito de aplicar golpe milionário em Mococa",
+   "resumo": "",
+   "categoria": "Cidade e serviços",
+   "escopo": "Mococa",
+   "fonte": "Portal Rio Pardo",
+   "url": "https://portalriopardo.com.br/caso-fran-do-miojo-justica-mantem-prisao-de-casal-suspeito-de-aplicar-golpe-milionario-em-mococa/",
    "data": "2026-11-06",
    "auto": true
   },
