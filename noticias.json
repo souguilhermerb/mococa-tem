@@ -1,6 +1,17 @@
 {
- "atualizado": "2026-11-08T01:52:38-03:00",
+ "atualizado": "2026-11-08T02:49:21-03:00",
  "noticias": [
+  {
+   "id": "485a6b54fc",
+   "titulo": "Enem 2026: prova reúne 34,2 mil candidatos em São Carlos, Araraquara e região neste domingo",
+   "resumo": "",
+   "categoria": "Saúde e educação",
+   "escopo": "Região",
+   "fonte": "g1 São Carlos e Araraquara",
+   "url": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/noticia/2026/11/08/enem-2026-prova-reune-342-mil-candidatos-em-sao-carlos-araraquara-e-regiao-neste-domingo.ghtml",
+   "data": "2026-11-08",
+   "auto": true
+  },
   {
    "id": "bd738d1430",
    "titulo": "Déficit em Mococa: servidores relatam atrasos nos salários",
