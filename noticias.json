@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T15:41:56-03:00",
+ "atualizado": "2026-11-08T16:43:53-03:00",
  "noticias": [
   {
    "id": "485a6b54fc",
@@ -9,6 +9,17 @@
    "escopo": "Região",
    "fonte": "g1 São Carlos e Araraquara",
    "url": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/noticia/2026/11/08/enem-2026-prova-reune-342-mil-candidatos-em-sao-carlos-araraquara-e-regiao-neste-domingo.ghtml",
+   "data": "2026-11-08",
+   "auto": true
+  },
+  {
+   "id": "c762dfa2c2",
+   "titulo": "Com contas no vermelho há 3 anos, cidade do interior de SP sofre com buracos e salários atrasados",
+   "resumo": "",
+   "categoria": "Saúde e educação",
+   "escopo": "Mococa",
+   "fonte": "g1 São Carlos e Araraquara",
+   "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/08/com-contas-no-vermelho-ha-3-anos-cidade-do-interior-de-sp-sofre-com-buracos-e-salarios-atrasados.ghtml",
    "data": "2026-11-08",
    "auto": true
   },
