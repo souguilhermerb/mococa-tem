@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T20:37:22-03:00",
+ "atualizado": "2026-11-10T21:59:42-03:00",
  "noticias": [
   {
    "id": "f84db29cbe",
@@ -490,28 +490,6 @@
    "url": "https://www.transparencia.blog.br/noticia/3085/mococa/saude/conselho-de-saude-expoe-dificuldades-na-internacao-transicao-do-conderg-e-estrutura-da-upa.html",
    "data": "2026-10-12",
    "escopo": "Mococa"
-  },
-  {
-   "id": "419593f430",
-   "titulo": "Resultado da Mega-Sena: aposta do interior de SP quase ganha os R$ 112 milhões; veja números",
-   "resumo": "",
-   "categoria": "Saúde e educação",
-   "escopo": "Região",
-   "fonte": "g1 São Carlos e Araraquara",
-   "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/11/mega-sena-aposta-do-interior-de-sp-fica-a-um-numero-de-ganhar-r-112-milhoes.ghtml",
-   "data": "2026-10-11",
-   "auto": true
-  },
-  {
-   "id": "3e5cd78d58",
-   "titulo": "Chuva forte alaga ruas, casas e deixa famílias desalojadas no interior de SP; veja imagens",
-   "resumo": "",
-   "categoria": "Saúde e educação",
-   "escopo": "Região",
-   "fonte": "g1 São Carlos e Araraquara",
-   "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/11/temporal-alaga-casas-e-deixa-familias-desalojadas-no-interior-de-sp.ghtml",
-   "data": "2026-10-11",
-   "auto": true
   }
  ]
 }
