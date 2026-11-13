@@ -1,6 +1,17 @@
 {
- "atualizado": "2026-11-13T10:04:03-03:00",
+ "atualizado": "2026-11-13T11:17:30-03:00",
  "noticias": [
+  {
+   "id": "2f520e02e6",
+   "titulo": "Parte do Pantanal entra oficialmente na lista de áreas suscetíveis à desertificação",
+   "resumo": "",
+   "categoria": "Saúde e educação",
+   "escopo": "Região",
+   "fonte": "g1 Campinas e região",
+   "url": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/11/13/parte-do-pantanal-entra-oficialmente-na-lista-de-areas-suscetiveis-a-desertificacao.ghtml",
+   "data": "2026-11-13",
+   "auto": true
+  },
   {
    "id": "90dbba2f67",
    "titulo": "Terra da Padroeira reúne violeiros e duplas sertanejas",
