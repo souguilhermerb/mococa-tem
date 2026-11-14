@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T17:38:39-03:00",
+ "atualizado": "2026-11-14T18:37:33-03:00",
  "noticias": [
   {
    "id": "68c7fe65fb",
@@ -9,6 +9,17 @@
    "escopo": "Mococa",
    "fonte": "Encontra Mococa",
    "url": "https://www.encontramococa.com.br/semepp-disputa-fase-final-da-copa-fpb-interior-em-mococa/",
+   "data": "2026-11-14",
+   "auto": true
+  },
+  {
+   "id": "9bf9a5ac20",
+   "titulo": "106 vagas no IBGE: processo seletivo contrata recenseador em 15 cidades do interior de SP",
+   "resumo": "",
+   "categoria": "Saúde e educação",
+   "escopo": "Mococa",
+   "fonte": "g1 São Carlos e Araraquara",
+   "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/14/106-vagas-no-ibge-processo-seletivo-contrata-recenseador-em-15-cidades-do-interior-de-sp.ghtml",
    "data": "2026-11-14",
    "auto": true
   },
