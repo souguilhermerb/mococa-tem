@@ -1,6 +1,17 @@
 {
- "atualizado": "2026-11-14T23:52:26-03:00",
+ "atualizado": "2026-11-15T00:52:32-03:00",
  "noticias": [
+  {
+   "id": "72b2beb8f3",
+   "titulo": "Enem 2026 reúne 34,2 mil candidatos neste 2° domingo de prova em São Carlos, Araraquara e região",
+   "resumo": "",
+   "categoria": "Saúde e educação",
+   "escopo": "Região",
+   "fonte": "g1 São Carlos e Araraquara",
+   "url": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/noticia/2026/11/15/enem-2026-reune-342-mil-candidatos-neste-2-domingo-de-prova-em-sao-carlos-araraquara-e-regiao.ghtml",
+   "data": "2026-11-15",
+   "auto": true
+  },
   {
    "id": "68c7fe65fb",
    "titulo": "Semepp disputa fase final da Copa FPB Interior em Mococa",
