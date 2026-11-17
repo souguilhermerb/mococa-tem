@@ -1,6 +1,17 @@
 {
- "atualizado": "2026-11-17T11:22:05-03:00",
+ "atualizado": "2026-11-17T12:56:10-03:00",
  "noticias": [
+  {
+   "id": "1a2beafc71",
+   "titulo": "Prof. Rincon: candidatura a vereador em Mococa em 2016",
+   "resumo": "",
+   "categoria": "Prefeitura e política",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/prof-rincon-candidatura-a-vereador-em-mococa-em-2016/",
+   "data": "2026-11-17",
+   "auto": true
+  },
   {
    "id": "72b2beb8f3",
    "titulo": "Enem 2026 reúne 34,2 mil candidatos neste 2° domingo de prova em São Carlos, Araraquara e região",
