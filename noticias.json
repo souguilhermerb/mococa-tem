@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T18:54:03-03:00",
+ "atualizado": "2026-11-17T19:54:55-03:00",
  "noticias": [
   {
    "id": "1a2beafc71",
@@ -9,6 +9,17 @@
    "escopo": "Mococa",
    "fonte": "Encontra Mococa",
    "url": "https://www.encontramococa.com.br/prof-rincon-candidatura-a-vereador-em-mococa-em-2016/",
+   "data": "2026-11-17",
+   "auto": true
+  },
+  {
+   "id": "46bb9ab0ee",
+   "titulo": "MB Circo ministra oficina e apresenta espetáculo premiado em São José do Rio Pardo e Tapiratiba",
+   "resumo": "",
+   "categoria": "Cidade e serviços",
+   "escopo": "Região",
+   "fonte": "Portal Rio Pardo",
+   "url": "https://portalriopardo.com.br/mb-circo-ministra-oficina-e-apresenta-espetaculo-premiado-em-sao-jose-do-rio-pardo-e-tapiratiba/",
    "data": "2026-11-17",
    "auto": true
   },
