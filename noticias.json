@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T16:58:27-03:00",
+ "atualizado": "2026-11-18T17:54:32-03:00",
  "noticias": [
   {
    "id": "12b191cf6c",
@@ -9,6 +9,17 @@
    "escopo": "Mococa",
    "fonte": "Encontra Mococa",
    "url": "https://www.encontramococa.com.br/chuva-forte-em-mococa-derruba-estrutura-de-loja-de-veiculos/",
+   "data": "2026-11-18",
+   "auto": true
+  },
+  {
+   "id": "2a37770852",
+   "titulo": "Rota Mogiana estima a passagem de 730 mil veículos no feriado da Consciência Negra",
+   "resumo": "",
+   "categoria": "Cidade e serviços",
+   "escopo": "Região",
+   "fonte": "Portal Rio Pardo",
+   "url": "https://portalriopardo.com.br/rota-mogiana-estima-a-passagem-de-730-mil-veiculos-no-feriado-da-consciencia-negra/",
    "data": "2026-11-18",
    "auto": true
   },
