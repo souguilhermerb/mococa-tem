@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T20:50:59-03:00",
+ "atualizado": "2026-11-17T22:11:46-03:00",
  "noticias": [
   {
    "id": "1a2beafc71",
@@ -536,27 +536,6 @@
    "fonte": "g1 Campinas e região",
    "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/20/stf-valida-lei-determina-reducao-jornada-profissionais-enfermagem-americana.ghtml",
    "data": "2026-10-20",
-   "auto": true
-  },
-  {
-   "id": 5,
-   "titulo": "Motociclista de 23 anos morre após acidente na SP-340, em Mococa",
-   "resumo": "A morte do jovem foi confirmada no domingo (18), na UTI da Santa Casa de Mococa, para onde ele foi levado em estado grave depois do acidente na SP-340, na altura do Corujão. A hipótese inicial é de que o pneu da moto estourou e o condutor foi parar sob um caminhão. A causa ainda será apurada pela perícia.",
-   "categoria": "Segurança e trânsito",
-   "fonte": "Portal Rio Pardo",
-   "url": "https://portalriopardo.com.br/jovem-de-23-anos-morre-apos-grave-acidente-de-moto-na-sp-340-em-mococa/",
-   "data": "2026-10-18",
-   "escopo": "Mococa"
-  },
-  {
-   "id": "3e80165e64",
-   "titulo": "Resultado da Mega-Sena: 2 apostas do interior de SP quase levam os R$ 170 milhões; veja números",
-   "resumo": "",
-   "categoria": "Cidade e serviços",
-   "escopo": "Região",
-   "fonte": "g1 São Carlos e Araraquara",
-   "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/18/resultado-da-mega-sena-2-apostas-do-interior-de-sp-quase-levam-os-r-170-milhoes-veja-numeros.ghtml",
-   "data": "2026-10-18",
    "auto": true
   }
  ]
