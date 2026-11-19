@@ -1,6 +1,28 @@
 {
- "atualizado": "2026-11-19T00:57:30-03:00",
+ "atualizado": "2026-11-19T02:05:40-03:00",
  "noticias": [
+  {
+   "id": "e30fd5cd3c",
+   "titulo": "Thiago Colpani: candidatura a vereador em Mococa em 2024",
+   "resumo": "",
+   "categoria": "Prefeitura e política",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/thiago-colpani-candidatura-a-vereador-em-mococa-em-2024/",
+   "data": "2026-11-19",
+   "auto": true
+  },
+  {
+   "id": "45be9e048c",
+   "titulo": "Elias Pereira: candidatura a vereador em Mococa em 2016",
+   "resumo": "",
+   "categoria": "Prefeitura e política",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/elias-pereira-candidatura-a-vereador-em-mococa-em-2016/",
+   "data": "2026-11-19",
+   "auto": true
+  },
   {
    "id": "12b191cf6c",
    "titulo": "Chuva forte em Mococa derruba estrutura de loja de veículos",
