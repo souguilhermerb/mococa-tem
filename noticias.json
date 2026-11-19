@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T15:58:57-03:00",
+ "atualizado": "2026-11-19T17:03:47-03:00",
  "noticias": [
   {
    "id": "e30fd5cd3c",
@@ -20,6 +20,17 @@
    "escopo": "Mococa",
    "fonte": "Encontra Mococa",
    "url": "https://www.encontramococa.com.br/elias-pereira-candidatura-a-vereador-em-mococa-em-2016/",
+   "data": "2026-11-19",
+   "auto": true
+  },
+  {
+   "id": "ca7dd1ed89",
+   "titulo": "Terceira morte por febre maculosa em Campinas acende sinal de alerta em Tambaú e região",
+   "resumo": "",
+   "categoria": "Saúde e educação",
+   "escopo": "Região",
+   "fonte": "Portal Rio Pardo",
+   "url": "https://portalriopardo.com.br/terceira-morte-por-febre-maculosa-em-campinas-acende-sinal-de-alerta-em-tambau-e-regiao/",
    "data": "2026-11-19",
    "auto": true
   },
