@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T20:44:17-03:00",
+ "atualizado": "2026-11-19T22:02:15-03:00",
  "noticias": [
   {
    "id": "e30fd5cd3c",
@@ -580,17 +580,6 @@
    "fonte": "Encontra Mococa",
    "url": "https://www.encontramococa.com.br/resultado-da-apuracao-ao-vivo-da-eleicao-2026-em-mococa-sp-no-2o-turno-veja-quem-foi-o-mais-votado/",
    "data": "2026-10-23",
-   "auto": true
-  },
-  {
-   "id": "c792987840",
-   "titulo": "Americana vai reduzir jornada de 293 profissionais de enfermagem após impasse judicial com MP",
-   "resumo": "",
-   "categoria": "Saúde e educação",
-   "escopo": "Mococa",
-   "fonte": "g1 Campinas e região",
-   "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/20/stf-valida-lei-determina-reducao-jornada-profissionais-enfermagem-americana.ghtml",
-   "data": "2026-10-20",
    "auto": true
   }
  ]
