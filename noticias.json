@@ -1,6 +1,17 @@
 {
- "atualizado": "2026-11-21T01:56:58-03:00",
+ "atualizado": "2026-11-21T02:57:00-03:00",
  "noticias": [
+  {
+   "id": "97542995e9",
+   "titulo": "Chuva forte em Mococa derruba estrutura de loja",
+   "resumo": "",
+   "categoria": "Prefeitura e política",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/chuva-forte-em-mococa-derruba-estrutura-de-loja/",
+   "data": "2026-11-21",
+   "auto": true
+  },
   {
    "id": "e30fd5cd3c",
    "titulo": "Thiago Colpani: candidatura a vereador em Mococa em 2024",
