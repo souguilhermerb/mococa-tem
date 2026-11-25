@@ -1,6 +1,17 @@
 {
- "atualizado": "2026-11-24T20:50:50-03:00",
+ "atualizado": "2026-11-25T05:17:00-03:00",
  "noticias": [
+  {
+   "id": "4c038032af",
+   "titulo": "Ramal de Mococa do Caminho da Fé completa 20 anos",
+   "resumo": "",
+   "categoria": "Cidade e serviços",
+   "escopo": "Mococa",
+   "fonte": "Encontra Mococa",
+   "url": "https://www.encontramococa.com.br/ramal-de-mococa-do-caminho-da-fe-completa-20-anos/",
+   "data": "2026-11-25",
+   "auto": true
+  },
   {
    "id": "97542995e9",
    "titulo": "Chuva forte em Mococa derruba estrutura de loja",
@@ -516,49 +527,6 @@
    "fonte": "g1 São Carlos e Araraquara",
    "url": "https://g1.globo.com/sp/sao-carlos-regiao/eleicoes/2026/noticia/2026/10/26/32-mil-eleitores-que-faltaram-no-1o-turno-foram-votar-no-2o-turno-em-sao-carlos-e-regiao-veja-dados.ghtml",
    "data": "2026-10-26",
-   "auto": true
-  },
-  {
-   "id": 1,
-   "titulo": "Bife à parmegiana de restaurante de Mococa é eleito o melhor do mundo em ranking",
-   "resumo": "A parmegiana de filé-mignon do restaurante Mirabile ficou em primeiro lugar em um ranking global do TasteAtlas. O dono atribui o resultado ao cuidado com os ingredientes e ao molho de tomate. Depois do título, a casa registrou mais procura e estuda como atender a demanda sem perder o padrão.",
-   "categoria": "Economia e emprego",
-   "fonte": "Encontra Mococa",
-   "url": "https://www.encontramococa.com.br/bife-a-parmegiana-de-restaurante-em-mococa-e-eleito-o-melhor-do-mundo-em-ranking/",
-   "data": "2026-10-25",
-   "escopo": "Mococa"
-  },
-  {
-   "id": "e4d7fde573",
-   "titulo": "2º turno das Eleições 2026 em São Carlos e região: acompanhe aqui a apuração da sua cidade",
-   "resumo": "",
-   "categoria": "Saúde e educação",
-   "escopo": "Mococa",
-   "fonte": "g1 São Carlos e Araraquara",
-   "url": "https://g1.globo.com/sp/sao-carlos-regiao/eleicoes/2026/noticia/2026/10/25/2o-turno-das-eleicoes-2026-em-sao-carlos-e-regiao-acompanhe-aqui-a-apuracao-da-sua-cidade.ghtml",
-   "data": "2026-10-25",
-   "auto": true
-  },
-  {
-   "id": "c818ae9228",
-   "titulo": "Eleições 2026: votos brancos e nulos caem 31% no 2º turno em São Carlos e região",
-   "resumo": "",
-   "categoria": "Saúde e educação",
-   "escopo": "Mococa",
-   "fonte": "g1 São Carlos e Araraquara",
-   "url": "https://g1.globo.com/sp/sao-carlos-regiao/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-votos-brancos-e-nulos-caem-31percent-no-2o-turno-em-sao-carlos-e-regiao.ghtml",
-   "data": "2026-10-25",
-   "auto": true
-  },
-  {
-   "id": "50f433ccf1",
-   "titulo": "Eleições 2026: No 2º turno, Lula ganhou em Araraquara e 8 cidades; Flávio Bolsonaro venceu em 33",
-   "resumo": "",
-   "categoria": "Prefeitura e política",
-   "escopo": "Mococa",
-   "fonte": "g1 São Carlos e Araraquara",
-   "url": "https://g1.globo.com/sp/sao-carlos-regiao/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-no-2o-turno-lula-ganhou-em-araraquara-e-8-cidades-flavio-bolsonaro-venceu-em-33.ghtml",
-   "data": "2026-10-25",
    "auto": true
   }
  ]
