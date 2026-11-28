@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T20:22:50-03:00",
+ "atualizado": "2026-11-28T04:34:17-03:00",
  "noticias": [
   {
    "id": "b254348db9",
@@ -439,50 +439,6 @@
    "fonte": "g1 São Carlos e Araraquara",
    "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/30/domingo-aereo-afa-abre-4o-lote-com-20-mil-ingressos-gratuitos-no-interior-de-sp.ghtml",
    "data": "2026-10-30",
-   "auto": true
-  },
-  {
-   "id": "666cba0894",
-   "titulo": "Colégio Maria Imaculada, 73ª zona eleitoral: resultado da votação em Mococa (SP) no 2º turno",
-   "resumo": "",
-   "categoria": "Cidade e serviços",
-   "escopo": "Mococa",
-   "fonte": "Encontra Mococa",
-   "url": "https://www.encontramococa.com.br/colegio-maria-imaculada-73a-zona-eleitoral-resultado-da-votacao-em-mococa-sp-no-2o-turno/",
-   "data": "2026-10-28",
-   "auto": true
-  },
-  {
-   "id": "9275de236d",
-   "titulo": "73ª zona eleitoral de Mococa (SP): votos por local de votação no 2º turno",
-   "resumo": "",
-   "categoria": "Cidade e serviços",
-   "escopo": "Mococa",
-   "fonte": "Encontra Mococa",
-   "url": "https://www.encontramococa.com.br/73a-zona-eleitoral-de-mococa-sp-votos-por-local-de-votacao-no-2o-turno/",
-   "data": "2026-10-28",
-   "auto": true
-  },
-  {
-   "id": "505ad0a658",
-   "titulo": "Flávio Bolsonaro vence em São José do Rio Pardo (SP)",
-   "resumo": "",
-   "categoria": "Cidade e serviços",
-   "escopo": "Região",
-   "fonte": "Encontra Mococa",
-   "url": "https://www.encontramococa.com.br/flavio-bolsonaro-vence-em-sao-jose-do-rio-pardo-sp/",
-   "data": "2026-10-28",
-   "auto": true
-  },
-  {
-   "id": "035d7e4008",
-   "titulo": "Coren-SP inaugura posto de atendimento no Poupatempo de São José do Rio Pardo",
-   "resumo": "",
-   "categoria": "Saúde e educação",
-   "escopo": "Região",
-   "fonte": "Portal Rio Pardo",
-   "url": "https://portalriopardo.com.br/coren-sp-inaugura-posto-de-atendimento-no-poupatempo-de-sao-jose-do-rio-pardo/",
-   "data": "2026-10-28",
    "auto": true
   }
  ]
